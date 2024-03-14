@@ -31,5 +31,9 @@ In here, press the "Bot" button to open your bot options.
 
 ![Screenshot_20240314_234213](https://github.com/TheMBTSaplar/ImageCreatorDiscordBot-/assets/98463524/6e2a7da9-a062-4e56-9672-b8dd37d09970)
 
-So, there's some options in the blue box. You need to check these intents. Later that, you can choose some permissions for your bot.
+So, In there, click the "Reset Token" button to reset your bot token. When you reset it, it will give you a token for your bot. Copy that and save it to anywhere safe. If someone get your token, it can use your bot for his childish things. 
+
+Then, there's some options in the blue box. You need to check these intents. Later that, you can choose some permissions for your bot.
 When you do that, click three-lined button again and click to "OAuth2".
+
+
