@@ -16,3 +16,10 @@ In this screen, you need to click to "New Application" button.
 ![Screenshot_20240314_232122](https://github.com/TheMBTSaplar/ImageCreatorDiscordBot-/assets/98463524/e5b01e8f-6103-415a-95ab-3fcf75a25f6c)
 
 In this screen give a name to your app. I will use "AiImageCreator".
+
+Then you click to "Create", this screen will come out.
+
+![Screenshot_20240314_233203](https://github.com/TheMBTSaplar/ImageCreatorDiscordBot-/assets/98463524/22dbd6b1-2436-4100-8306-f9327f3374ca)
+
+There's some informations and customisations for our app. Don't forget to sharing your app id to cause to bad things.
+
