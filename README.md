@@ -21,7 +21,7 @@ Then you click to "Create", this screen will come out.
 
 ![Screenshot_20240314_233203](https://github.com/TheMBTSaplar/ImageCreatorDiscordBot-/assets/98463524/22dbd6b1-2436-4100-8306-f9327f3374ca)
 
-There's some informations and customisations for our app. Don't forget to sharing your app id cause to bad things.
+There's some informations and customisations for our app. And remember, don't share your app id to cause to bad things.
 
 Here, press the three-lined button in the upper left corner of the screen. (I cut the three-lined button on the previous image accidentally. Sorry for that.)
 
