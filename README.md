@@ -28,3 +28,8 @@ Here, press the three-lined button in the upper left corner of the screen. (I cu
 ![Screenshot_20240314_233559](https://github.com/TheMBTSaplar/ImageCreatorDiscordBot-/assets/98463524/628d1512-478f-4d00-a378-624de2d44cdf)
 
 In here, press the "Bot" button to open your bot options.
+
+![Screenshot_20240314_234213](https://github.com/TheMBTSaplar/ImageCreatorDiscordBot-/assets/98463524/6e2a7da9-a062-4e56-9672-b8dd37d09970)
+
+So, there's some options in the blue box. You need to check these intents. Later that, you can choose some permissions for your bot.
+When you do that, click three-lined button again and click to "OAuth2".
