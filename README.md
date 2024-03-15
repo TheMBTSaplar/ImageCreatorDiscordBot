@@ -42,3 +42,7 @@ In here, you need to select some permissions for your bot. You can do how i did 
 When its done, At the bottom there is a box with a link. This is your bot's invitation link. Invite your bot to your server by copying this and opening it in a new tab.
 
 
+**Step 2: Get the Open AI API**
+
+
+
