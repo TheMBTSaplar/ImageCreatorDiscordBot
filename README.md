@@ -35,4 +35,8 @@ So, In there, click the "Reset Token" button to reset your bot token. When you r
 
 Then, there's some options in the blue box. You need to check these intents. When you do that, click three-lined button again and click to "OAuth2".
 
+![Screenshot_20240315_085227](https://github.com/TheMBTSaplar/ImageCreatorDiscordBot-/assets/98463524/f103e03c-7734-44c5-bfb3-780e512d71bc)
+
+In here, you need to select some permissions for your bot. You can do how did i do. 
+
 
