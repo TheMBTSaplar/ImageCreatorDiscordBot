@@ -44,5 +44,5 @@ When its done, At the bottom there is a box with a link. This is your bot's invi
 
 **Step 2: Get the Open AI API**
 
-
+Visit [OpenAI's website](https://platform.openai.com/docs/overview). Press the three-lined button in the upper right corner of the screen.
 
