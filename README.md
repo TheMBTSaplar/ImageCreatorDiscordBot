@@ -37,6 +37,8 @@ Then, there's some options in the blue box. You need to check these intents. Whe
 
 ![Screenshot_20240315_085227](https://github.com/TheMBTSaplar/ImageCreatorDiscordBot-/assets/98463524/f103e03c-7734-44c5-bfb3-780e512d71bc)
 
-In here, you need to select some permissions for your bot. You can do how did i do. 
+In here, you need to select some permissions for your bot. You can do how i did it. Then, choose "bot" and "application.commands" in OAuth2 URL Generator area. 
+
+When its done, At the bottom there is a box with a link. This is your bot's invitation link. Invite your bot to your server by copying this and opening it in a new tab.
 
 
