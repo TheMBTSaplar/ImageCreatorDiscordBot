@@ -6,6 +6,7 @@ This code will help you for making a image generator bot for Discord using OpenA
 To use this code, you need a token for your Discord bot and API key from OpenAI. And of course you need an IDE for code. I recommend Visual Studio Code for you. 
 
 Here's the steps:
+
 [Step 1: Creating A bot in Discord](https://github.com/TheMBTSaplar/ImageCreatorDiscordBot-/blob/main/README.md#step-1-creating-a-bot-in-discord)
 
 # **Step 1: Creating A Bot in Discord**
