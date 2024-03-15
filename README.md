@@ -11,6 +11,8 @@ Here's the steps:
 
 [Step 2: Get the OpenAI ApI](https://github.com/TheMBTSaplar/ImageCreatorDiscordBot-/blob/main/README.md#step-2-get-the-open-ai-api)
 
+[Step 3: Configure Your Bot](https://github.com/TheMBTSaplar/ImageCreatorDiscordBot-/blob/main/README.md#step-3-configure-your-bot)
+
 
 # **Step 1: Creating A Bot in Discord**
 
@@ -59,6 +61,6 @@ In this screen, click "Create new secret key" and copy it. And thats all for thi
 
 # **Step 3: Configure Your Bot**
 
-Download and open "imagegeneratecode.py" and change 'Your_Discord_Bot_Token' with your Discord bot token, 'Your_Openai_Api_Key' with your OpenAI API key. When you done, run the code and try your bot.
+Download and open "imagegeneratebot.py" and change 'Your_Discord_Bot_Token' with your Discord bot token, 'Your_Openai_Api_Key' with your OpenAI API key. When you done, run the code and try your bot.
 
 
